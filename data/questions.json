@@ -1,0 +1,26 @@
+{
+  "animé": [
+    { "q": "Qui a réalisé 'Spirited Away' ?", "choices": ["Hayao Miyazaki", "Makoto Shinkai", "Satoshi Kon", "Mamoru Hosoda"], "answer": "Hayao Miyazaki" }
+  ],
+  "animaux": [
+    { "q": "Quel est le plus grand mammifère terrestre ?", "choices": ["Éléphant", "Rhinocéros", "Girafe", "Hippopotame"], "answer": "Éléphant" }
+  ],
+  "histoire-rdc": [
+    { "q": "En quelle année la République démocratique du Congo a-t-elle obtenu son indépendance ?", "choices": ["1960", "1958", "1962", "1955"], "answer": "1960" }
+  ],
+  "geo-afrique": [
+    { "q": "Quel est le plus grand pays d'Afrique par superficie ?", "choices": ["Algérie", "République démocratique du Congo", "Soudan", "Libye"], "answer": "Algérie" }
+  ],
+  "science": [
+    { "q": "Quelle est la formule chimique de l'eau ?", "choices": ["H2O", "CO2", "O2", "NaCl"], "answer": "H2O" }
+  ],
+  "musique": [
+    { "q": "Qui était connu comme le 'King of Pop' ?", "choices": ["Michael Jackson", "Elvis Presley", "Freddie Mercury", "Prince"], "answer": "Michael Jackson" }
+  ],
+  "sport": [
+    { "q": "Combien de joueurs par équipe au football ?", "choices": ["9", "10", "11", "12"], "answer": "11" }
+  ],
+  "jeu-video": [
+    { "q": "Quel studio a créé la série 'The Last of Us' (jeu) ?", "choices": ["Naughty Dog", "CD Projekt", "Rockstar", "Ubisoft"], "answer": "Naughty Dog" }
+  ]
+}
